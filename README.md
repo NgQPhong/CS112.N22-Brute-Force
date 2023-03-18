@@ -12,7 +12,5 @@ Subject: Completed search - Brute force
 Team:
 
 - Nguyễn Quế Phong - 21520398@gm.uit.edu.vn
-- 
 - Đường Minh Khang - 21520957@gm.uit.edu.vn
-- 
 - Nguyễn Hoàng Xuân Huy - 21520924@gm.uit.edu.vn
